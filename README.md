@@ -1,6 +1,13 @@
-## Hi there 👋
+# ☁️🌤️ Hello! ☁️☁️
+## My name is Jasmine (she/her), this is my profile c:
 
-<!--
+> I am a current student at Arizona State University ☀️ studying Human Systems Engineering with a concentration in User Experience
+
+#Fun facts about me ⭐
+1. I **bold text**LOVE**bold best** cats!
+2. I love to hike
+3. 
+ <!--
 **jndupree/jndupree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
