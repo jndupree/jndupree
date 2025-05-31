@@ -1,12 +1,9 @@
-# ☁️🌤️ Hello! ☁️☁️
+# 🌤️ Hello! ☁️☁️
 ## My name is Jasmine (she/her), this is my profile c:
+![cat laying on desk](https://www.pexels.com/video/stray-tabby-cat-19787248/)
+> I am a current student at Arizona State University studying Human Systems Engineering with a concentration in User Experience
 
-> I am a current student at Arizona State University ☀️ studying Human Systems Engineering with a concentration in User Experience
 
-#Fun facts about me ⭐
-1. I **bold text**LOVE**bold best** cats!
-2. I love to hike
-3. 
  <!--
 **jndupree/jndupree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
