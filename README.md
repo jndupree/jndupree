@@ -1,8 +1,7 @@
 # 🌤️ Hello! ☁️☁️
-## My name is Jasmine (she/her), this is my profile c:
-![cat laying on desk](https://videos.pexels.com/video-files/19787248/19787248-sd_640_360_25fps.mp4)
+## My name is Jasmine, this is my profile c:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+page!)](https://git.io/typing-svg)
 > I am a current student at Arizona State University studying Human Systems Engineering with a concentration in User Experience
-
 
  <!--
 **jndupree/jndupree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
