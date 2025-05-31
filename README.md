@@ -1,6 +1,6 @@
 # 🌤️ Hello! ☁️☁️
 ## My name is Jasmine, this is my profile c:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=45&pause=1000&color=F7ED74&width=435&lines=Hello+!+C%3A;welcome+to+my+page+!)](https://git.io/typing-svg)
 > I am a current student at Arizona State University studying Human Systems Engineering with a concentration in User Experience
 
  <!--
