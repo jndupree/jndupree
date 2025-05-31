@@ -1,6 +1,6 @@
 # 🌤️ Hello! ☁️☁️
 ## My name is Jasmine (she/her), this is my profile c:
-![cat laying on desk](https://www.pexels.com/video/stray-tabby-cat-19787248/)
+![cat laying on desk](https://videos.pexels.com/video-files/19787248/19787248-sd_640_360_25fps.mp4)
 > I am a current student at Arizona State University studying Human Systems Engineering with a concentration in User Experience
 
 
