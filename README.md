@@ -7,7 +7,7 @@ Hobbies
 - hiking
 - cooking
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jndupree&theme=lightyellow-dark" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jndupree&theme=yellow-dark" alt="mystreak"/>
 
 
 
